@@ -1,2 +1,2 @@
 # Burger-King-Project
-A development project : an interactive website for 'Burger King'
+An interactive website for 'Burger King' with an appealing User Interface
